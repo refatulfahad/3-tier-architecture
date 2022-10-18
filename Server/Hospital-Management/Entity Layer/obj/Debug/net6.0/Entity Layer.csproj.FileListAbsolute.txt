@@ -1,0 +1,12 @@
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\bin\Debug\net6.0\Entity Layer.deps.json
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\bin\Debug\net6.0\Entity Layer.dll
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\bin\Debug\net6.0\Entity Layer.pdb
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.csproj.AssemblyReference.cache
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.AssemblyInfoInputs.cache
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.AssemblyInfo.cs
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.dll
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\refint\Entity Layer.dll
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\Entity Layer.pdb
+C:\Users\BS1002\Documents\BS-Work\webAPI\Hospital-Management\Server\Hospital-Management\Entity Layer\obj\Debug\net6.0\ref\Entity Layer.dll
